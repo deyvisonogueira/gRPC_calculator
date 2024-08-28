@@ -1,4 +1,4 @@
-# Calculadora gRPC em Java
+v# Calculadora gRPC em Java
 
 Este projeto implementa um serviço de calculadora utilizando gRPC em Java. O serviço oferece uma operação de soma, onde o cliente pode enviar dois números inteiros e receber o resultado da soma.
 
@@ -20,5 +20,5 @@ Este projeto implementa um serviço de calculadora utilizando gRPC em Java. O se
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/seu-usuario/seu-repositorio.git]
    cd seu-repositorio
