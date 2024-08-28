@@ -20,5 +20,5 @@ Este projeto implementa um serviço de calculadora utilizando gRPC em Java. O se
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/deyvisonogueira/gRPC_calculator.git
+   git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
