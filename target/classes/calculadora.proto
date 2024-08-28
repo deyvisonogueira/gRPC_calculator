@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package calculadora;
+
+option java_package = "com.proto.calculadora";
+option java_multiple_files = true;
+
+message SomaRequest {
+    int32 numero1 = 1;
+    int32 numero2 = 2;
+}
+
+message SomaResponse {
+    int32 resultado = 1;
+}
+
+service CalculadoraService {
+    rpc somar(SomaRequest) returns (SomaResponse) {};
+}
